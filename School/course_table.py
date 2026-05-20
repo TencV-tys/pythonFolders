@@ -18,3 +18,4 @@ def course_table(conn):
     except Exception:
         print(f"Unexpected error on Course table")
         raise
+
